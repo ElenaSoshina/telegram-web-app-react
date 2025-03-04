@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/telegram-web-app-react/static/css/main.ca2d1a09.css",
-    "main.js": "/telegram-web-app-react/static/js/main.ace82597.js",
+    "main.css": "/telegram-web-app-react/static/css/main.c4488718.css",
+    "main.js": "/telegram-web-app-react/static/js/main.d631a748.js",
+    "static/media/tshirt_white.jpg": "/telegram-web-app-react/static/media/tshirt_white.f0caf64d45c3d5804d3d.jpg",
+    "static/media/shirt.jpg": "/telegram-web-app-react/static/media/shirt.450b09972d845f98b3a0.jpg",
+    "static/media/jeans_3.jpg": "/telegram-web-app-react/static/media/jeans_3.f382925b4162b6997da6.jpg",
+    "static/media/jeans_1.jpg": "/telegram-web-app-react/static/media/jeans_1.c6062848a025c46308f5.jpg",
+    "static/media/tshirt_picture.jpg": "/telegram-web-app-react/static/media/tshirt_picture.ab2664dc828b6b421e49.jpg",
+    "static/media/jeans_2.jpg": "/telegram-web-app-react/static/media/jeans_2.f41c214dd0fd6fb51e3e.jpg",
+    "static/media/hoddie_red.jpg": "/telegram-web-app-react/static/media/hoddie_red.54a38dee752b88195e31.jpg",
+    "static/media/hoddie_black.jpg": "/telegram-web-app-react/static/media/hoddie_black.b939a4d2b4101b413f18.jpg",
     "index.html": "/telegram-web-app-react/index.html",
-    "main.ca2d1a09.css.map": "/telegram-web-app-react/static/css/main.ca2d1a09.css.map",
-    "main.ace82597.js.map": "/telegram-web-app-react/static/js/main.ace82597.js.map"
+    "main.c4488718.css.map": "/telegram-web-app-react/static/css/main.c4488718.css.map",
+    "main.d631a748.js.map": "/telegram-web-app-react/static/js/main.d631a748.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca2d1a09.css",
-    "static/js/main.ace82597.js"
+    "static/css/main.c4488718.css",
+    "static/js/main.d631a748.js"
   ]
 }
