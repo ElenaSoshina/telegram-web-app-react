@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/telegram-web-app-react/static/css/main.b42df518.css",
+    "main.css": "/telegram-web-app-react/static/css/main.3e016a6d.css",
     "main.js": "/telegram-web-app-react/static/js/main.b1fdb184.js",
     "static/media/tshirt_white.jpg": "/telegram-web-app-react/static/media/tshirt_white.f0caf64d45c3d5804d3d.jpg",
     "static/media/shirt.jpg": "/telegram-web-app-react/static/media/shirt.450b09972d845f98b3a0.jpg",
@@ -11,11 +11,11 @@
     "static/media/hoddie_red.jpg": "/telegram-web-app-react/static/media/hoddie_red.54a38dee752b88195e31.jpg",
     "static/media/hoddie_black.jpg": "/telegram-web-app-react/static/media/hoddie_black.b939a4d2b4101b413f18.jpg",
     "index.html": "/telegram-web-app-react/index.html",
-    "main.b42df518.css.map": "/telegram-web-app-react/static/css/main.b42df518.css.map",
+    "main.3e016a6d.css.map": "/telegram-web-app-react/static/css/main.3e016a6d.css.map",
     "main.b1fdb184.js.map": "/telegram-web-app-react/static/js/main.b1fdb184.js.map"
   },
   "entrypoints": [
-    "static/css/main.b42df518.css",
+    "static/css/main.3e016a6d.css",
     "static/js/main.b1fdb184.js"
   ]
 }
